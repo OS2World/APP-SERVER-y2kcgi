@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: y2kcgi3.zip
+       Short Description: Days left until the year 2000 CGI with Pascal Source.
+        Long Description: (none)
+
+      Proposed directory
+           for placement: /pub/os2/apps/internet/www/cgi
+
+               Your name:  Shawn Highfield
+           Email address:  tiny@oix.com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://move.to/tinys/
+
+      Would you like the
+   contact email address
+    included in listings? No
+
+Operating System/Version: OS/2 Warp3 or better. Win16, Win32, Linux.
+ Additional requirements: 
+
+                Replaces: (none)
+
+
+

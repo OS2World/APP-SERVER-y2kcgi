@@ -1,0 +1,62 @@
+                        Tiny's Days until Y2K CGI version 1.2
+                 Written by: Shawn 'Tiny' Highfield May 12 1999
+
+What is it?
+===========
+  Small simple program that will Display the Years,Months,Days, Mins,Secs
+  until the year 2000.
+
+Features
+========
+ Some features include
+    - Fast Native 32 bit code. (OS/2 or Windows32)
+    - 16 bit dos version for win16/dos servers.
+    - Linux version (FPC)
+    - Small compiled .exe
+    - Sends HTML output directly to the web server, no messing
+      around with temporary .HTML files.
+    - Free with Source code.
+
+Installing
+==========
+
+  1) Place the .exe in your cgi-bin directory.
+     y2kcgid.exe  if you run a DOS or Windows16 server
+     y2kcgiw.exe  if you run a Windows95/nt/98 server.
+     y2kcgip.exe  if you run a OS/2 server
+     y2kcgi       if you run a Linux server
+
+  2)  Install a link into your HTML page.
+
+       ie: Click here for a countdown until the end of the world. :)
+       <A HREF="http://tinys.cx/cgi-bin/y2kcgip.exe">Click</A>!<BR>
+
+       Or you could use a SSI if your server supports it:
+       <!--#Exec Cgi="/cgi-bin/y2kcgix.exe"-->
+
+History
+=======
+        June 09 1998 Version 1
+          - First version.
+
+        July 03 1998 Version 1.1
+          - Fixed the HTML stuff.
+          - Corrected buglet in the math
+
+        May 12 1999 Version 1.2
+          - Compiled Windows32 version.
+          - Compiled Linux version
+          - Fixed math.  Now display's the correct info. :)
+
+Contacting the Author
+=====================
+ WWW    : http://move.to/tinys/
+        : http://www.tinys.cx
+
+ FidoNet: 1:229/452.0
+ RIME   : ->TINYSBBS(#3033)
+ Email  : t1ny@home.com    - Checked Daily.
+          t1ny@tinys.cx    - Checked Daily.
+          t1ny@yahoo.com   - In case both the above bounce.
+Tiny's BBS is available at: (905)723-1575 or telnet://tinys.cx
+
